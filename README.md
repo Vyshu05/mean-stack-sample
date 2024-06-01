@@ -7,5 +7,6 @@ cd client/
 ng serve -o
 
 Run Server
+
 cd server
 npx ts-node src/server.ts 
