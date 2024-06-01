@@ -3,10 +3,8 @@ Learned to implement a node-js server, connected with mongodb and wrote REST API
 
 Run Client 
 
-cd client/
-ng serve -o
+cd client && ng serve -o
 
 Run Server
 
-cd server
-npx ts-node src/server.ts 
+cd server && npx ts-node src/server.ts 
